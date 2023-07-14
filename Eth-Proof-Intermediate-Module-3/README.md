@@ -48,7 +48,7 @@ If you encounter any issues or have any questions, you can refer to the project'
 
 ## Authors
 
-* -[Umar Khan](github.com/UmarKhan19)
+* -[Kiratpal Singh Kalsey](https://www.linkedin.com/in/kiratpal-singh-kalsey-a92b15230/)
 
 
 ## License
